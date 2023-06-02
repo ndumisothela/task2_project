@@ -1,0 +1,13 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;   
+    background-color: #086e7d;   
+}
+#header{
+    border: 1px solid grey;
+    justify-content: center;
+    display: flex;
+padding: 5px;
+}
+#userAge{
+    color: #ffc900;
+}
